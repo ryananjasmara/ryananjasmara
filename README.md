@@ -18,7 +18,6 @@
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-rounded" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-rounded" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white&style=flat-rounded" alt="Node.js" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-rounded" alt="Laravel" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=flat-rounded" alt="CodeIgniter" />
 </p>
