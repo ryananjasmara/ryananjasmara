@@ -48,6 +48,6 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-rounded" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-rounded" alt="Docker" />
-<img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-rounded" alt="AWS" />
-<img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=flat-rounded" alt="Google Cloud Platform" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat-rounded" alt="AWS" />
+  <img src="https://img.shields.io/badge/GCP-4285F4?logo=google-cloud&logoColor=white&style=flat-rounded" alt="Google Cloud Platform" />
 </p>
