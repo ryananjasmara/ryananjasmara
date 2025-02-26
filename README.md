@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-rounded" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-rounded" alt="PHP" />
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-rounded" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=flat-rounded" alt="Kotlin" />
 </p>
 
 <p>
@@ -20,6 +21,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=flat-rounded" alt="Next.js" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-rounded" alt="Laravel" />
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=flat-rounded" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=flat-rounded" alt="Android Native" />
 </p>
 
 <p>
