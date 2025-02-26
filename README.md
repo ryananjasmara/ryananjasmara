@@ -1,6 +1,6 @@
 <h2>Hello there, I am Ryan 👋</h2>
 
-<p>A passionate Software Engineer with a strong eagerness to learn and adapt. With expertise in front-end and full-stack development, I specialize in React and Next.js. I have experience building scalable web applications, integrating APIs, and optimizing performance. Beyond coding, I enjoy exploring new technologies, mentoring, and continuously improving my skills.</p>
+<p>A passionate Software Engineer with a strong eagerness to learn and adapt. With expertise in front-end and mobile development, I specialize in React Native, ReactJS and Next.js. I have experience building scalable web and mobile applications, integrating APIs, and optimizing performance. Beyond coding, I enjoy exploring new technologies, mentoring, and continuously improving my skills.</p>
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=ryananjasmara&show_icons=true&locale=en" alt="GitHub Stats" />
@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-rounded" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-rounded" alt="JavaScript" />
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat-rounded" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-rounded" alt="Java" />
 </p>
 
 <p>
@@ -30,6 +31,12 @@
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-rounded" alt="Git" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-rounded" alt="Docker" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apache-kafka&logoColor=white&style=flat-rounded" alt="Kafka" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=white&style=flat-rounded" alt="RabbitMQ" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=flat-rounded" alt="Jest" />
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat-rounded" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=flat-rounded" alt="Redux" />
 </p>
