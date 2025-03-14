@@ -1,11 +1,5 @@
 <h2>Hello there, I am Ryan 👋</h2>
 
-<p>A passionate Software Engineer with a strong eagerness to learn and adapt. With expertise in front-end and mobile development, I specialize in React Native, ReactJS and Next.js. I have experience building scalable web and mobile applications, integrating APIs, and optimizing performance. Beyond coding, I enjoy exploring new technologies, mentoring, and continuously improving my skills.</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ryananjasmara&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
 <h2>Tech Stacks ☀️</h2>
 
 <p>
