@@ -1,7 +1,5 @@
 <h2>Hello there, I am Ryan 👋</h2>
 
-<h2>Tech Stacks ☀️</h2>
-
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-rounded" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-rounded" alt="JavaScript" />
